@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a beginner in the world of programming, curren
 
 ## 🚀 About Me
 
-- 💻 I'm currently learning **JavaScript**, **Node.js**, **HTML**, and **CSS**
+- 💻 I'm currently learning **JavaScript**, **HTML**, **CSS** and **ReactJs**
 - 📚 I’m passionate about becoming a skilled and competent programmer
 - 🌱 I enjoy exploring how things work, love building small projects to improve my skills, love to learn from the others in the developer community
 - 🎯 My goal is to keep growing, slow but sure, one line of code at a time!
@@ -14,5 +14,5 @@ Welcome to my GitHub profile! I'm a beginner in the world of programming, curren
 
 ```bash
 Languages: C | C++ | JavaScript | GDScript
-Frameworks: Node.js
+Runtime Environment: Node.js
 Tools: Git | VS Code | ESLints | Godot
