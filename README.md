@@ -66,12 +66,8 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mdavindarinaldy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdavindarinaldy&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="220" alt="streak graph"  />
 </div>
 
 ###
