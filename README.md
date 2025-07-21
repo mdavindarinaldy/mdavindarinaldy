@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Welcome to my GitHub profile! I'm a beginner in the world of programming, currently open to many opportunities to learn and grow. I'm on a journey to become a competent programmer.<br><br>💻 I'm currently learning Go Language<br>📚 I’m passionate about becoming a skilled and competent programmer<br>🌱 I enjoy exploring how things work, love building small projects to improve my skills, love to learn from the others in the developer community<br>🎯 My goal is to keep growing, slow but sure, one line of code at a time!</p>
+<p align="left">Welcome to my GitHub profile! I'm currently open to many opportunities to learn and grow.<br>💻 I'm currently learning PhaserJs<br>🌱 I enjoy exploring how things work, love building small projects to improve my skills, love to learn from the others in the developer community<br>🎯 My goal is to keep growing, slow but sure, one line of code at a time!</p>
 
 ###
 
